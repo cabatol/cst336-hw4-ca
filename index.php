@@ -233,6 +233,14 @@
 				margin: 0 auto;
 			}
 			
+			#whole {
+				background-color: black;
+			}
+			
+			h1 {
+				color: white;
+			}
+			
 			#head {
 				text-align: center;
 			}
@@ -245,7 +253,7 @@
 		</style>
 		<div></div>
 	</head>
-	<body  onload="init()">
+	<body id="whole"  onload="init()">
 		<header id="head"><h1>Space Invaders</h1></header><br>
 
 		<div id="gameScreen"></div>
