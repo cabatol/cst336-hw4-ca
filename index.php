@@ -246,7 +246,7 @@
 		<div></div>
 	</head>
 	<body  onload="init()">
-		<header id="head"><h1>Space Invaders</h1></header><br/><br><br><br>
+		<header id="head"><h1>Space Invaders</h1></header><br><br>
 
 		<div id="gameScreen"></div>
 		<div id="output">degugger</div>
